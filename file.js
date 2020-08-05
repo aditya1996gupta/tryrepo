@@ -9,4 +9,11 @@ qwer
 looking.................
 
 wrinting something to chk
+<<<<<<< Updated upstream
 1234567890
+=======
+1234567890qwerty
+>>>>>>> Stashed changes
+qwerrtui
+dedewfff
+>>>>>>> Stashed changes
