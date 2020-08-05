@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 checking git file...
 in repos
 
@@ -16,4 +17,7 @@ wrinting something to chk
 >>>>>>> Stashed changes
 qwerrtui
 dedewfff
+>>>>>>> Stashed changes
+=======
+wertheone
 >>>>>>> Stashed changes
